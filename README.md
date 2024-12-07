@@ -21,7 +21,7 @@
 
 ### Passo a Passo 
 
-📌Entre em modo root no terminal digite o comando sudo su e digite a senha.<br>
+📌Entre em modo root, no terminal digite o comando sudo su e digite a senha.<br>
 ![Alt text](./sudosu.PNG "Optional title")
 
 📌Inicie a ferramenta setoolkit digitando o comando setoolkit<br> 
@@ -33,16 +33,16 @@
 📌No menu escolha a opção Social-Engineering Attacks<br>
 ![Alt text](./menudeataques.PNG "Optional title")
 
-📌No proximo menu escolha a opção Web Site Attack Vectors<br>
+📌No próximo menu, escolha a opção Web Site Attack Vectors<br>
 ![Alt text](./2menudeataques.PNG "Optional title")
 
-📌No proximo menu escolha a opção Credential Harvester Attack Method<br>
+📌No próximo menu, escolha a opção Credential Harvester Attack Method<br>
 ![Alt text](./menudeataque3.PNG "Optional title")
 
-📌No proximo menu escolha a opção Site Cloner<br>
+📌No próximo menu, escolha a opção Site Cloner<br>
 ![Alt text](./menuataque4.PNG "Optional title")
 
-📌Confirme o IP da maquina caso não queira mudar é só apertar o enter<br>
+📌Confirme o IP da maquina, caso não queira mudar é só apertar o enter<br>
 ![Alt text](./confirmandoipdamaquina.PNG "Optional title")
 
 📌Informe a URL do site que deseja clonar e aperte enter<br>
