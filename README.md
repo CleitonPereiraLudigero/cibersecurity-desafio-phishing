@@ -43,7 +43,7 @@
 ![Alt text](./menuataque4.PNG "Optional title")
 
 📌Confirme o IP da maquina caso não queira mudar é só apertar o enter<br>
-![Alt text](./confirmandoipdamaquina.PNG "Optional title")
+![Alt text](./ "Optional title")
 
 📌Informe a URL do site que deseja clonar e aperte enter<br>
 ![Alt text](./clonandosite.PNG "Optional title")
