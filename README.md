@@ -52,3 +52,13 @@
 ![Alt text](./Resultado1.PNG "Optional title")
 
 Observação: Para efetuar o teste digite o IP no navegador para abrir a pagina fake.
+
+### ⚠️ Aviso Importante
+
+Este repositório foi desenvolvido exclusivamente para fins educacionais e de aprendizado. Qualquer uso indevido do conteúdo aqui disponibilizado para práticas ilícitas ou que violem leis aplicáveis é estritamente proibido e pode configurar crime cibernético, passível de sanções legais.
+
+Ao acessar ou utilizar este material, você declara estar ciente das leis vigentes e compromete-se a utilizá-lo de forma ética e responsável.
+
+
+
+
