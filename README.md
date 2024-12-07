@@ -51,4 +51,4 @@
 📌Resultado após o teste<br>
 ![Alt text](./Resultado1.PNG "Optional title")
 
-Observação: Para exeutar o teste digite o IP no navegador para abrir a pagina fake.
+Observação: Para efetuar o teste digite o IP no navegador para abrir a pagina fake.
